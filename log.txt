@@ -1,36 +1,10 @@
-Master : Process 0 want to WRITE at Address: 103 at 0:100000
-Master : Address: 85 in frame 0, WRITING data to Process 0 at 0:100000
-Master : Process 1 want to WRITE at Address: 103 at 0:200000
-Master : Address: 69 in frame 0, WRITING data to Process 1 at 0:200000
-Master : Process 2 want to WRITE at Address: 103 at 0:300000
-Master : Address: 190 in frame 0, WRITING data to Process 2 at 0:300000
-Master : Process 3 want to WRITE at Address: 103 at 0:400000
-Master : Address: 14 in frame 0, WRITING data to Process 3 at 0:400000
-Master : Process 4 want to WRITE at Address: 103 at 0:500000
-Master : Address: 144 in frame 0, WRITING data to Process 4 at 0:500000
-Master : Process 5 want to READ at Address: 244 at 0:600000
-Master : Address: 244 in frame 0, GIVING data to Process 5 at 0:600000
-Master : Process 6 want to READ at Address: 57 at 0:700000
-Master : Address: 57 in frame 0, GIVING data to Process 6 at 0:700000
-Master : Process 7 want to READ at Address: 63 at 0:800000
-Master : Address: 63 in frame 0, GIVING data to Process 7 at 0:800000
-Master : Process 8 want to READ at Address: 161 at 0:900000
-Master : Address: 161 in frame 0, GIVING data to Process 8 at 0:900000
-Master : Process 9 want to WRITE at Address: 103 at 0:1000000
-Master : Address: 45 in frame 0, WRITING data to Process 9 at 0:1000000
-Master : Process 10 want to WRITE at Address: 103 at 0:1100000
-Master : Address: 165 in frame 0, WRITING data to Process 10 at 0:1100000
-Master : Process 11 want to READ at Address: 208 at 0:1200000
-Master : Address: 208 in frame 0, GIVING data to Process 11 at 0:1200000
-Master : Process 12 want to READ at Address: 85 at 0:1300000
-Master : Address: 85 in frame 0, GIVING data to Process 12 at 0:1300000
-Master : Process 13 want to WRITE at Address: 103 at 0:1400000
-Master : Address: 253 in frame 0, WRITING data to Process 13 at 0:1400000
-Master : Process 14 want to WRITE at Address: 103 at 0:1500000
-Master : Address: 98 in frame 0, WRITING data to Process 14 at 0:1500000
-Master : Process 15 want to WRITE at Address: 103 at 0:4300000
-Master : Address: 22 in frame 0, WRITING data to Process 15 at 0:4300000
-Master : Process 16 want to READ at Address: 84 at 0:47100000
-Master : Address: 84 in frame 0, GIVING data to Process 16 at 0:47100000
-Master : Process 17 want to WRITE at Address: 103 at 0:52400000
-Master : Address: 229 in frame 0, WRITING data to Process 17 at 0:52400000
+Master : Process 0 want to WRITE at Address: 103 at 0:400000
+Master : Address: 98 in frame 0, WRITING data to Process 0 at 0:400000
+Master : Process 1 want to READ at Address: 2 at 0:600000
+Master : Address: 2 in frame 0, GIVING data to Process 1 at 0:600000
+Master : Process 2 want to WRITE at Address: 103 at 0:700000
+Master : Address: 207 in frame 0, WRITING data to Process 2 at 0:700000
+Master : Process 3 want to READ at Address: 231 at 0:800000
+Master : Address: 231 in frame 0, GIVING data to Process 3 at 0:800000
+Master : Process 4 want to WRITE at Address: 103 at 0:1100000
+Master : Address: 191 in frame 0, WRITING data to Process 4 at 0:1100000

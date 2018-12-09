@@ -1,0 +1,13 @@
+SHAON ISLAM
+OS PROJECT 6
+
+
+Memory Management:
+	
+	"./oss -h" : shows help of valid inputs
+	"./oss" : runs program with 18 max_spawn as default
+	"./oss -m X" : runs program with X max_spawns unless X is greater than 18, then defaults to 18
+	
+
+	Message queues kept breaking code, Utilized semaphores instead.
+
